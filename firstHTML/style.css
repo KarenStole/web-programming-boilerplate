@@ -1,0 +1,30 @@
+body{
+    background-color: firebrick;
+    color: aquamarine;
+    text-align: center
+}
+
+p{
+    border: 3px solid aquamarine;
+    display: inline-block;
+    margin: 20px 0;
+    width: 200px;
+    
+}
+
+span.cabezal {
+    background-color: aquamarine;
+    color: firebrick;
+    width: 100%;
+    padding: 0;
+}
+span {
+    padding: 5px;
+    display: block;
+}
+
+a{
+    display: block;
+    color: aquamarine;
+}
+
